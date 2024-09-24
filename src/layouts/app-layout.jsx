@@ -10,7 +10,7 @@ const AppLayout = () => {
         <Outlet />
       </main>
       <div className="p-10 text-center bg-gray-800 mt-10">
-      For more job posting stay tunes.....
+      For more job posting stay tuned.....
       </div>
     </div>
   );
